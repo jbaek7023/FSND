@@ -1,6 +1,4 @@
 # Full Stack Web Developer Nanodegree 
-Full Stack Web Developer Nanodegree (Udacity)
-
 ![img](full-stack.png)
 
 ## About
