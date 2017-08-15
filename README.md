@@ -1,8 +1,13 @@
 # Full Stack Web Developer Nanodegree 
 ![img](full-stack.png)
 
-## About
-This repository contains project work for Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004).
+## About [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
+
+This program will prepare you for a job as a Full Stack Web Developer, and teach you to build complex server-side web applications that use powerful relational databases to persistently store data.
+
+You’ll learn to build applications that can support any front-end, and scale to support hundreds of thousands of users.
+
+Co-created by: AWS, GitHub, AT&T, Google
 
 ## Projects
 - [**Project 1** - Movie Trailer Website](https://github.com/jbaek7023/Movie_Trailer)
