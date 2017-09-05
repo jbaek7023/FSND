@@ -1,6 +1,6 @@
 # [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)
 
-This nanodegree is to build complex server-side web applications that use powerful relational databases to persistently store data. I've learned to build applications that can support any front-end, and scale to support hundreds of thousands of users.
+This nanodegree is to build complex server-side web applications that use powerful relational databases to persistently store data. I learned to build applications that can support any front-end, and scale to support hundreds of thousands of users.
 
 Co-created by: AWS, GitHub, AT&T, Google
 
